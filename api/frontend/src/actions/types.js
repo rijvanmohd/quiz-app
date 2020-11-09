@@ -1,0 +1,20 @@
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const QUIZ_LOADING = "QUIZ_LOADING";
+export const QUIZ_LOADED = "QUIZ_LOADED";
+export const QUIZ_FAILED = "QUIZ_FAILED";
+export const ANSWER_SAVED = "ANSWER_SAVED";
+export const ANSWER_FAILURE = "ANSWER_FAILURE";
+export const QUIZ_SUBMIT = "QUIZ_SUBMIT";
+export const QUIZ_SUBMIT_FAILURE = "QUIZ_SUBMIT_FAILURE";
+
+
+
+
+
